@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: kajal
+Build-Jdk: 18.0.1.1
+Implementation-Title: fullstackbackend
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.komal
+Implementation-URL: https://spring.io/projects/spring-boot/fullstackback
+ end
+Created-By: Maven Integration for Eclipse
+
